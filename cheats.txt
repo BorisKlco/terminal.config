@@ -9,3 +9,4 @@ TMUX:
 new windos - Selector + b
 select windows - Selector + p/n
 move selected window - ctrl+shift+arros
+Rename window - Selector + ,

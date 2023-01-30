@@ -1,0 +1,4 @@
+NVIM:
+#Comment/Uncomment:
+Shift+V --> Select --> :s/^/#
+-||- --> :s/#/

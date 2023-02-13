@@ -6,7 +6,7 @@ Shift+V --> Select --> :s/^/#
 
 
 TMUX:
-new windos - Selector + b
+new windos - Selector + c
 select windows - Selector + p/n
 move selected window - ctrl+shift+arros
 Rename window - Selector + ,
